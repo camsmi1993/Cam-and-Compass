@@ -1,8 +1,8 @@
 {
-    "title": "Agency",
-    "name": "startbootstrap-agency",
+    "title": "BBVA",
+    "name": "welcome-page",
     "version": "5.0.5",
-    "description": "Agency is a one page HTML theme for Bootstrap.",
+    "description": "Using a bootstrap theme to build a mock page",
     "keywords": [
         "css",
         "sass",
@@ -27,7 +27,7 @@
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.7.0",
-        "bootstrap": "4.2.1",
+        "bootstrap": "^4.3.1",
         "jquery": "3.3.1",
         "jquery.easing": "^1.4.1"
     },
